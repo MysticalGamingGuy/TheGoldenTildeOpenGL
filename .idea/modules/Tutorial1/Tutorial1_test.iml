@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Tutorial1:test" external.linked.project.path="$MODULE_DIR$/../../../Tutorial1" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="TheLonelyTildeOpenGL" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../Tutorial1/build/classes/kotlin/test" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="Tutorial1" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../Tutorial1/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../Tutorial1/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Tutorial1/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../Tutorial1/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../Tutorial1/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Tutorial1_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-assimp:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-assimp:natives-windows:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-glfw:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-glfw:natives-windows:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-openal:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-openal:natives-windows:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-opengl:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-opengl:natives-windows:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-stb:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-stb:natives-windows:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl:natives-windows:3.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.joml:joml:1.9.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Tutorial1_main" />
+</module>

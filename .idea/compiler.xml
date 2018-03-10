@@ -6,6 +6,10 @@
       <module name="BlogTut_test" target="1.8" />
       <module name="TheLonelyTildeOpenGL_main" target="1.8" />
       <module name="TheLonelyTildeOpenGL_test" target="1.8" />
+      <module name="Tutorial1_main" target="1.8" />
+      <module name="Tutorial1_test" target="1.8" />
+      <module name="Tutorial2_main" target="1.8" />
+      <module name="Tutorial2_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

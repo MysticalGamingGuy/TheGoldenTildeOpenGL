@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test/Test.iml" filepath="$PROJECT_DIR$/.idea/modules/Test/Test.iml" group="Test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test/Test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Test/Test_main.iml" group="Test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test/Test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Test/Test_test.iml" group="Test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheLonelyTildeOpenGL.iml" filepath="$PROJECT_DIR$/.idea/modules/TheLonelyTildeOpenGL.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tutorial1/Tutorial1.iml" filepath="$PROJECT_DIR$/.idea/modules/Tutorial1/Tutorial1.iml" group="Tutorial1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tutorial1/Tutorial1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tutorial1/Tutorial1_main.iml" group="Tutorial1" />

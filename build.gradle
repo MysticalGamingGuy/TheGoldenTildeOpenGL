@@ -14,7 +14,6 @@ buildscript {
 group 'me.blog'
 version '1.0'
 
-
 subprojects{
 
     apply plugin: 'kotlin'

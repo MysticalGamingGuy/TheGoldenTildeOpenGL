@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="BlogTut_main" target="1.8" />
       <module name="BlogTut_test" target="1.8" />
+      <module name="Test_main" target="1.8" />
+      <module name="Test_test" target="1.8" />
       <module name="TheLonelyTildeOpenGL_main" target="1.8" />
       <module name="TheLonelyTildeOpenGL_test" target="1.8" />
       <module name="Tutorial1_main" target="1.8" />

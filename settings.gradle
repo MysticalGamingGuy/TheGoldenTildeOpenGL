@@ -1,3 +1,4 @@
 rootProject.name = 'TheLonelyTildeOpenGL'
 include 'Tutorial1'
 include 'Tutorial2'
+include 'Test'
